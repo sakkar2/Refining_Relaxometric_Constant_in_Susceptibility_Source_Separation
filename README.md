@@ -1,5 +1,5 @@
-# Refining_Relaxometric_Constant_in_Susceptibility_Source_Separation
-Matlab source code for estimating refined relaxometric constants (Dr) in susceptibility source separation
+# Refining Relaxometric Constant in Susceptibility Source Separation
+Matlab source code for multivariate regression to estimate refined relaxometric constants (Dr) in susceptibility source separation
 Related paper: Will be updated
 
 # Common requirement
